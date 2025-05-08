@@ -59,15 +59,17 @@ Saya terbiasa membuat berbagai proyek pribadi, hingga eksperimen kecil yang bert
 
 
 ---
-<!-- ## 📈 **Statistik GitHub Saya** -->
+### 📈 **Statistik GitHub Saya**
 
 <p align="center">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moelmo&theme=radical" alt="GitHub Contributions"> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Moelmo&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats"> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Moelmo&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moelmo&layout=compact&langs_count=6&theme=radical" alt="Top Languages">
 </p>
 
 ---
+
+### Spotify Recetly Played
 
 <div align="center">
   <a href="https://open.spotify.com/user/3125xa3i2r4bjbjc4nlzknqoooqm">
@@ -79,8 +81,14 @@ Saya terbiasa membuat berbagai proyek pribadi, hingga eksperimen kecil yang bert
 ---
 ## 📩 **Kontak**
 
-- Email: [Moelmo](mailto:moelmo165@gmail.com)
-
+<div align="center">
+  <a href="mailto:moemo165@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+    <a href="https://discord.com/users/1165534053273976852">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</div>
 
 ###
 <br clear="both">
