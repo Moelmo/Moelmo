@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Moelmo](img/Moelmo.gif)
 <!--
 **Moelmo/Moelmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning [**Python**](https://www.python.org/)
+
+- 📫 How to reach me: [**Discord**](https://discord.com/users/1165534053273976852)
