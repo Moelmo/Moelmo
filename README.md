@@ -1,13 +1,11 @@
 ## Hai Kawan 👋
 ---
-<div style="text-align: center;">
-  <img src="img/github-header-image.png" alt="Moelmo" style="width: 650px; height: auto; margin-bottom: 0px;"><br>
-  <img src="img/Moelmo.gif" alt="Moelmo" style="width: 650px; height: auto;">
-</div>
+  <img src="img/github-header-image.png" alt="Moelmo" style="width: 650px; height: auto; text-align: center;"><br>
+  <img src="img/Moelmo.gif" alt="Moelmo" style="width: 650px; height: auto; text-align: center;">
 <!--
 **Moelmo/Moelmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
