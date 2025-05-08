@@ -32,7 +32,16 @@ Saya terbiasa membuat berbagai proyek pribadi, hingga eksperimen kecil yang bert
 >🌱 I’m currently learning [**Python**](https://www.python.org/)
 
 ---
-## 🌐 Sosial Media
+##### 📚 Skills Language And Framework
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white">
+
+---
+
+#### 🌐 Sosial Media
 
 <p align="center">
   <a href="https://instagram.com/moelmo57">
@@ -57,8 +66,23 @@ Saya terbiasa membuat berbagai proyek pribadi, hingga eksperimen kecil yang bert
 </p>
 
 ---
+
+<div align="center">
+  <a href="https://open.spotify.com/user/3125xa3i2r4bjbjc4nlzknqoooqm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3125xa3i2r4bjbjc4nlzknqoooqm&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+---
 ## 📩 **Kontak**
 
 - Email: [Moelmo](mailto:moelmo165@gmail.com)
+
+
+###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Moelmo/Moelmo/output/snake.svg" alt="Snake animation" />
 
 ---
