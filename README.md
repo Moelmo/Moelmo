@@ -1,6 +1,6 @@
 ## Hai Kawan 👋
 ---
-<div style="text-align: center;">
+<div style="display: flex; flex-direction: column; align-items: center;">
   <img src="img/github-header-image.png" alt="Moelmo" style="width: 750px; height: auto;"><br>
   <img src="img/Moelmo.gif" alt="Moelmo" style="width: 750px; height: auto;">
 </div>
