@@ -97,9 +97,11 @@ Saya terbiasa membuat berbagai proyek pribadi, hingga eksperimen kecil yang bert
 <p align="center">
   <strong>Contributions in the last year</strong>
 </p>
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Moelmo&theme=radical" alt="GitHub Contributions">
+  <img src="https://streak-stats.demolab.com?user=Moelmo&theme=radical" alt="GitHub Contributions">
 </p>
+
 
 ---
 
