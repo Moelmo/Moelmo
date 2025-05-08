@@ -43,10 +43,10 @@ Saya terbiasa membuat berbagai proyek pribadi, hingga eksperimen kecil yang bert
 
 
 ---
-## 📈 **Statistik GitHub Saya**
+<!-- ## 📈 **Statistik GitHub Saya**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moelmo&theme=radical" alt="GitHub Contributions">
+<p align="center"> -->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moelmo&theme=radical" alt="GitHub Contributions"> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Moelmo&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats"> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moelmo&layout=compact&langs_count=6&theme=radical" alt="Top Languages">
 </p>
