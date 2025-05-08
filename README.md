@@ -1,8 +1,11 @@
 ## Hai Kawan 👋
 ---
-<div style="text-align: center;">
-  <img src="img/github-header-image.png" alt="Moelmo" style="width: 600px; height: auto; margin-bottom: 10px;"><br>
-</div>
+
+<!-- ![Moelmo](img/github-header-image.png)
+![Moelmo](img/Moelmo.gif) -->
+<img src="img/github-header-image.png" alt="Moelmo" style="width: 100vw; height: auto; object-fit: contain;">
+<img src="img/Moelmo.gif" alt="Moelmo" style="width: 100vw; height: auto; object-fit: contain;">
+
 <!--
 **Moelmo/Moelmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,10 +21,6 @@
 - ⚡ Fun fact: ....
 -->
 ---
-<div style="text-align: center;">
-      <img src="img/Moelmo.gif" alt="Moelmo" style="width: 600px; height: auto;">
-</div>
-
 ## 📝 **About Me**
 
 Saya adalah seorang penggemar Python yang senang mengeksplorasi berbagai ide melalui pemrograman. Bagi saya, Python bukan sekadar bahasa pemrograman, tetapi alat untuk menciptakan solusi sederhana yang efisien dan menyenangkan untuk dikembangkan.
