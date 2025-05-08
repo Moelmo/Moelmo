@@ -1,7 +1,7 @@
 ## Hai Kawan 👋
 ---
 <img src="img/github-header-image.png" alt="Moelmo" width="750">
-<img src="img/Moelmo.gif" alt="Moelmo" width="7500">
+<img src="img/Moelmo.gif" alt="Moelmo" width="750">
 
 <!--
 **Moelmo/Moelmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
