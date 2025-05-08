@@ -69,7 +69,7 @@ Saya terbiasa membuat berbagai proyek pribadi, hingga eksperimen kecil yang bert
 
 ---
 
-### Spotify Recetly Played
+### 🎵 Spotify Recently Played
 
 <div align="center">
   <a href="https://open.spotify.com/user/3125xa3i2r4bjbjc4nlzknqoooqm">
