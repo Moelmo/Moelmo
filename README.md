@@ -2,7 +2,6 @@
 ---
 <div style="text-align: center;">
   <img src="img/github-header-image.png" alt="Moelmo" style="width: 100%; max-width: 600px; height: auto; margin-bottom: 10px;"><br>
-  <img src="img/Moelmo.gif" alt="Moelmo" style="width: 100%; max-width: 600px; height: auto;">
 </div>
 <!--
 **Moelmo/Moelmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +17,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ....
 -->
-
-- 🌱 I’m currently learning [**Python**](https://www.python.org/)
 ---
+<div style="text-align: center;">
+      <img src="img/Moelmo.gif" alt="Moelmo" style="width: 100%; max-width: 600px; height: auto;">
+</div>
+
 ## 📝 **About Me**
 
 Saya adalah seorang penggemar Python yang senang mengeksplorasi berbagai ide melalui pemrograman. Bagi saya, Python bukan sekadar bahasa pemrograman, tetapi alat untuk menciptakan solusi sederhana yang efisien dan menyenangkan untuk dikembangkan.
@@ -28,6 +29,8 @@ Saya adalah seorang penggemar Python yang senang mengeksplorasi berbagai ide mel
 Saya terbiasa membuat berbagai proyek pribadi, hingga eksperimen kecil yang bertujuan untuk meningkatkan produktivitas. Dengan pendekatan yang santai namun konsisten, saya percaya bahwa proses belajar yang menyenangkan akan menghasilkan karya yang bermanfaat.
 
 > "Code less, create more — Python makes it possible."
+
+>🌱 I’m currently learning [**Python**](https://www.python.org/)
 
 ---
 ## 🌐 Sosial Media
