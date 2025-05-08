@@ -1,4 +1,5 @@
 ## Hai Kawan 👋
+![Moelmo](img/github-header-image.png)
 ---
 ![Moelmo](img/Moelmo.gif)
 <!--
