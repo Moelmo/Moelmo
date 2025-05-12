@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-Moelmo&style=for-the-badge" alt="Profile views" />
+</p>
+
 ## Hai Kawan 👋
 ---
 
