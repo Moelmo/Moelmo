@@ -7,36 +7,25 @@
 
 <!-- ![Moelmo](img/github-header-image.png)
 ![Moelmo](img/Moelmo.gif) -->
-<img src="img/github-header-image.png" alt="Moelmo" style="width: 100vw; height: auto; object-fit: contain;">
+<!-- <img src="img/github-header-image.png" alt="Moelmo" style="width: 100vw; height: auto; object-fit: contain;"> -->
 <img src="img/Moelmo.gif" alt="Moelmo" style="width: 100vw; height: auto; object-fit: contain;">
 
-<!--
-**Moelmo/Moelmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<!-- Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ....
--->
 ---
+
 ## 📝 **About Me**
 
-Saya adalah seorang penggemar Python yang senang mengeksplorasi berbagai ide melalui pemrograman. Bagi saya, Python bukan sekadar bahasa pemrograman, tetapi alat untuk menciptakan solusi sederhana yang efisien dan menyenangkan untuk dikembangkan.
+Saya hanyalah seorang programmer biasa yang ingin jadi handal, tapi kenyataannya kadang mager banget ngoding. Walau begitu, rasa penasaran buat bikin hal-hal keren masih terus membara (walau sering nunggu mood dulu 😅).
 
-Saya terbiasa membuat berbagai proyek pribadi, hingga eksperimen kecil yang bertujuan untuk meningkatkan produktivitas. Dengan pendekatan yang santai namun konsisten, saya percaya bahwa proses belajar yang menyenangkan akan menghasilkan karya yang bermanfaat.
+Saya suka ngulik Python dan JavaScript — dua bahasa serba guna yang bikin eksperimen coding terasa fun. Dari proyek iseng, sampai tools sederhana buat produktivitas, saya percaya bahwa proses belajar yang menyenangkan itu lebih penting dari hasil cepat.
 
-> "Code less, create more — Python makes it possible."
+> "Ngoding santai, tapi tetap jalan. Yang penting ngulik, bukan buru-buru jago."
 
->🌱 I’m currently learning [**Python**](https://www.python.org/)
+> 🌱 Saat ini lagi ngulik [**Python**](https://www.python.org/) dan [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ---
+
 ### 📚 Skills Language And Framework
+
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -61,8 +50,8 @@ Saya terbiasa membuat berbagai proyek pribadi, hingga eksperimen kecil yang bert
   </a>
 </p>
 
-
 ---
+
 ### 📈 **Statistik GitHub Saya**
 
 <p align="center">
@@ -81,36 +70,23 @@ Saya terbiasa membuat berbagai proyek pribadi, hingga eksperimen kecil yang bert
   </a>
 </div>
 
-###
 ---
+
 ## 📩 **Kontak**
 
 <div align="center">
   <a href="mailto:moemo165@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-    <a href="https://discord.com/users/1165534053273976852">
+  <a href="https://discord.com/users/1165534053273976852">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
 
-###
-<br clear="both">
-
-<!-- ---
-<p align="center">
-  <strong>Contributions in the last year</strong>
-</p>
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Moelmo&theme=radical" alt="GitHub Contributions">
-</p> -->
-
 ---
 
-### Play with me 🐍
+### 🐍 Play with me
 
 <img src="https://raw.githubusercontent.com/Moelmo/Moelmo/output/snake.svg" alt="Snake animation" />
-
-
 
 ---
