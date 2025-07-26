@@ -46,7 +46,7 @@ Saya suka ngulik Python dan JavaScript — dua bahasa serba guna yang bikin eksp
     <img src="https://img.shields.io/badge/TikTok-@moelmo57-black?logo=tiktok&style=for-the-badge" alt="TikTok">
   </a>
   <a href="https://discord.com/users/1165534053273976852">
-    <img src="https://img.shields.io/badge/Discord-Moelmo57-5865F2?logo=discord&style=for-the-badge" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-Moelmo-5865F2?logo=discord&style=for-the-badge" alt="Discord">
   </a>
 </p>
 
