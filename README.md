@@ -11,7 +11,7 @@
 <img src="img/Moelmo.gif" alt="Moelmo" style="width: 100vw; height: auto; object-fit: contain;">
 
 ---
-
+<!--
 ## 📝 **About Me**
 
 Saya hanyalah seorang programmer biasa yang ingin jadi handal, tapi kenyataannya kadang mager banget ngoding. Walau begitu, rasa penasaran buat bikin hal-hal keren masih terus membara (walau sering nunggu mood dulu 😅).
@@ -49,13 +49,15 @@ Saya suka ngulik Python dan JavaScript — dua bahasa serba guna yang bikin eksp
     <img src="https://img.shields.io/badge/Discord-Moelmo-5865F2?logo=discord&style=for-the-badge" alt="Discord">
   </a>
 </p>
-
+-->
+<!--
 ---
 
 ### 📈 **Statistik GitHub Saya**
 
 <p align="center">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moelmo&theme=radical" alt="GitHub Contributions"> -->
+<!--
   <img src="https://github-readme-stats.vercel.app/api?username=Moelmo&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moelmo&layout=compact&langs_count=6&theme=radical" alt="Top Languages">
 </p>
